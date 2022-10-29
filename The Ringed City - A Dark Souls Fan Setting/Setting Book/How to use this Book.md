@@ -1,0 +1,1 @@
+Everything you need to create a character and get started can be found in this book. Go to #TODO CHARACTERS to get started creating a character. The book details all the rules introduced in the setting including new skills, edges, gear, and setting rules. If something isn’t mentioned you can assume that it uses the *Savage Worlds Adventure Edition Core Rules*.

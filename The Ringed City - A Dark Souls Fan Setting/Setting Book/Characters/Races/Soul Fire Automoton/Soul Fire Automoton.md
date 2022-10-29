@@ -1,0 +1,10 @@
+
+A Collaboration between Natural Casters and the Vinheimin Soul Casters, automata that run off of burning souls. They take many forms, rustic machines of gears and metal plating. They have rudimentary software that runs off of {SorcericOS}, prolific software capable of intelligence created by Vinhemien Computer Scientists. Many robots serve humanity in some way or another. Some call it cruel, others a necessity. It is up to the player how they wish to approach their characters' outlook on life. A higher purpose to serve humanity or something more individualistic.
+
+All Automata have a Soul-Fire Core, a small catalyst that converts souls into a brilliant energy that fuels their hydraulics, and their software. Soul-Fire Automaton are contentious as the “burning” of souls is seen as sacrilege, that they should be saved for the consumption of humans. An Automaton’s Soul-Fire core is its life, without it, they cannot run. It contains their software, and their memory imprints. Some theorise that they are only able to think, and act at all not because of advanced software, but the souls of those burned taking over the core itself - but this is a baseless theory. They come in many forms, many Engineers and great minds have devised their own creations as they see fit to the needs that they are selling, or trying to satisfy.
+
+##### Artificial Body
+Soul-Fire Automaton are artificial beings made of inorganic material. They add +2 to recover from being Staggered, ignore one level of Wound modifiers, don’t breathe, and are immune to disease and poison. Wounds must be mended via the Repair skill. Each attempt takes one hour per current Wound level and ignores the “Golden Hour”. 
+
+##### Soul Dependency
+Soul-Fire Automaton have to consume souls every 24hrs as a source of fuel. They take a level of fatigue every 24hrs until incapacitation if not satisfied.  They must consume 500 souls, or half of a {Soul Canister}.

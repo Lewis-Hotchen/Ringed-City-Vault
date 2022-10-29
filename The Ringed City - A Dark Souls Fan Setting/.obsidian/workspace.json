@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "dd96cb9b1ea9ad7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17c6ec1ca584b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4befced9aec0893d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/General/Government.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d37702e99c2a9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/General/Currency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d12813cad50392d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/General/Society.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcfd6a4eefca9a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/General/Dates and Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "519d337be12c092f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c737a10c9a5c20f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32d53c4b7ef48c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91e2854f78a26f41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0a600c9825e08a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6128395427a5011f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf35fed5e54b9000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56921f25c98875c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/General/Dates and Time.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c37d9fc23c4642ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/General/Dates and Time.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c460e63e398c78a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3a0b8c2c53292b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/General/Dates and Time.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d32d53c4b7ef48c5",
+  "lastOpenFiles": [
+    "World/General/Society.md",
+    "World/General/Currency.md",
+    "World/General/Government.md",
+    "World/Untitled.md",
+    "World/Carim/Untitled.md",
+    "Characters/New Edges.md",
+    "Characters/New Hindrances.md",
+    "Characters/Races.md",
+    "Characters/Making Characters.md",
+    "Characters/Races/Soul Fire Automoton/Sub-Classifications/Classification General.md"
+  ]
+}

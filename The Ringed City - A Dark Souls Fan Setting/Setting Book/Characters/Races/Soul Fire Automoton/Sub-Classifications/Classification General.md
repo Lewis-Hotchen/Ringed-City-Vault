@@ -1,0 +1,7 @@
+
+##### Classification: General
+Innovation Automata are assistants in scientific research, daily repair, maintenance and service. They possess a modified version of {SorcericOS}, optimised for computational power for complex mathematics and problem solving making them often more appropriate for a wide range of human jobs that rely on common sense and improvisation. Often used in flight navigation and control in {Hollowcrafts} #TODO. These all-purpose automata contain the capacity to fulfil any non-physical role. Gain 2 skills at d4, making their maximum d12 +1, Common Knowledge at d8, and -1 to Strength.
+
+General Automata can take many forms, but often are a subset of the Scavenge Automata, being humanoid in nature, tall and slender with a lot of electronics and mechanical parts exposed, though not designed for intensive traversal like the Scavenge Automata. However, due to their programmable nature, some have been retro-fitted into nefarious figures such as thieves and assassins. Even reports of them going “rogue” fulfilling their need for soul as a driver to take responsibility for their own Life.
+
+![](https://lh3.googleusercontent.com/P3ni6B6Gbfx2LqpW2tIfZf4wqN_odWERUW0nht6IqQQmXdE6FgMDZxvVCN0Wdgjp3DGudzf90u-IRK0VrZIvR8cup-r6fiitdARFDcIXlRAc4DkXfKCx9AxBnIHwrNsPwLGinPNpTtHl2kRo1pVmFSZfTTgeq-bEHcZ8r5E7pIPXyBVS7mDJ1Hjyig)
