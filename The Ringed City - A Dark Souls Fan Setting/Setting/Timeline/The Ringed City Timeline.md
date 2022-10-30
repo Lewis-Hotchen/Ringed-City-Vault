@@ -11,6 +11,7 @@
 # 2445
 ## *A vessel is lost. Discovery of Abyssal Creatures.*
 ##### A vessel with Automaton coming back from it's expedition to the closest Archtree, referred to as *Seath*, named after a mythological God. The telemetry sent back found the Vessel was pulled down, very, very far down. Further than ever theorised, and further than they could ever possibly go. A creature of infatimsal size dragged it down. One picture was able to be sent back. A large, black swirling mass with 8 heads. A black Hydra.
+---
 
 # 2443
 ## *A new Archtree is discoverd*
