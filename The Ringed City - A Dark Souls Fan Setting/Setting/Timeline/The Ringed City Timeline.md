@@ -1,6 +1,6 @@
 # 2528
 ## T*he Present Day*
-#### The present day where our story will begin
+#### The present day where our story will begin.
 ---
 
 # 2512
@@ -33,6 +33,11 @@
 ##### Although most have already started life there, the Ringed City is finally complete.
 ---
 
+# 2372
+## *A lot of people are taken by the Great Hollow.*
+##### Temporary housing is created on the branches, to transistion into the new Ringed City World, but the branches have a way of drawing people in. Many people refused to leave the branches.
+---
+
 # 2349
 ## *Zena is consumed by branches into the ocean. Driving out those that live there.*
 ##### Zena is consumed by Branches of the Archtree, which came up under the water. The majority of it's land is taken into the water by the unstoppable branches which seem to grow faster each day.
@@ -54,7 +59,7 @@
 ---
 
 # 2284 
-## *Humanity has it's first war. Astora, Thouroland fall*
+## *Humanity has it's first war; Astora; Thouroland fall*
 ##### A war of culture, and regligious conflict. Those Kingdoms still dedicated to the wisdom of the Old Gods grew tired of the power growing in agnostic people. They went to war, to annex Lordran and Vinheim. The war did not lost long with the use of modern magical weapons. Unprecedented destruction. With Astora and Thouroland being lost time, their ideals go with it.
 ---
 
