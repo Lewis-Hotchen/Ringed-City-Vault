@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce939ddb4756815e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Quadrants/Catarina/Catarina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cdfa88fc16ad63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/Races/Soul Fire Automoton/Soul Fire Automoton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/Races/Soul Fire Automoton/Soul Fire Automoton.md",
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Timeline/The Ringed City Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/Races/Soul Fire Automoton/Soul Fire Automoton.md",
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Timeline/The Ringed City Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/Races/Soul Fire Automoton/Soul Fire Automoton.md"
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Timeline/The Ringed City Timeline.md"
               }
             }
           }
@@ -161,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cdfa88fc16ad63c",
+  "active": "7f1d55778bef1ccc",
   "lastOpenFiles": [
+    "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/Races/Soul Fire Automoton/Soul Fire Automoton.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/Setting Tags.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/Timeline/The Ringed City Timeline.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/Beastiery/Dragons.md",
@@ -171,7 +147,6 @@
     "The Ringed City - A Dark Souls Fan Setting/Setting/General/Currency.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/General/Society.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/General/Important Dates and Events.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Quadrants/Vinheim.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/The General World.md"
+    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Quadrants/Vinheim.md"
   ]
 }
