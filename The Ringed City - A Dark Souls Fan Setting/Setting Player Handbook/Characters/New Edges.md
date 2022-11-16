@@ -110,4 +110,4 @@ Edges that don’t “fit” within the other categories. Often abstract and str
 
 #### Dragon Veins
 *Requirements*: Seasoned, Focus d8+, Mind d6+
-Through some part of your own, or external forces, you have encountered an Ancient Cult, ones who are obsessed with transcending to “God-hood” by becoming a dragon. Through the exposure of their cursed knowledge, gain +2 to Arcana rolls when recalling information about Dragons. As well as this, gain the ability to cast the spell {Comprehend Language}, allowing you to understand surface level thoughts and intents of dragons, or related species. The spellcasting roll for this is Focus.
+Through some part of your own, or external forces, you have encountered an Ancient Cult, ones who are obsessed with transcending to “God-hood” by becoming a dragon. Through the exposure of their cursed knowledge, gain +2 to Arcana rolls when recalling information about [[Dragons And Wyverns]]. As well as this, gain the ability to cast the spell {Comprehend Language}, allowing you to understand surface level thoughts and intents of dragons, or related species. The spellcasting roll for this is Focus.

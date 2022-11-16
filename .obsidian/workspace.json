@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6554a535c5e9aea9",
+        "id": "b4cc18172510c569",
         "type": "tabs",
         "children": [
           {
-            "id": "7f1d55778bef1ccc",
+            "id": "7997e4e307592f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/Ash Lake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887ed6fdcd141544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/The Deep Hollow.md",
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Magic And Technology/Abyssal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/The Deep Hollow.md",
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Magic And Technology/Abyssal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/The Deep Hollow.md",
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Magic And Technology/Abyssal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/The Deep Hollow.md"
+                "file": "The Ringed City - A Dark Souls Fan Setting/Setting/Magic And Technology/Abyssal.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "887ed6fdcd141544",
+  "active": "7997e4e307592f6b",
   "lastOpenFiles": [
-    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/Ash Lake.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/Other Dimensions.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/The General World.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/Timeline/The Ringed City Timeline.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/Races/Soul Fire Automoton/Soul Fire Automoton.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/Setting Tags.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/Beastiery/Dragons.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/General/Government.md",
+    "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/Characters/New Edges.md",
+    "The Ringed City - A Dark Souls Fan Setting/Setting Player Handbook/How to use this Book.md",
+    "The Ringed City - A Dark Souls Fan Setting/Setting/General/Currency.md",
+    "The Ringed City - A Dark Souls Fan Setting/Campaign/Calendar.md",
     "The Ringed City - A Dark Souls Fan Setting/Setting/General/Dates and Time.md",
-    "The Ringed City - A Dark Souls Fan Setting/Setting/General/Currency.md"
+    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/Great Hollow Map.md",
+    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/Other Dimensions.md",
+    "The Ringed City - A Dark Souls Fan Setting/Setting/Geography/Great Hollow/The Deep Hollow.md"
   ]
 }

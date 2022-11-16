@@ -14,13 +14,13 @@
 ---
 
 # 2443
-## *A new Archtree is discoverd*
+## *A new Archtree is discovered*
 ##### An Archtree, not too distant, predicted to be about 2 years away with current technology. Probes and automaton sent to understand what it is.
 ---
 
 # 2442
 ## *Ash Lake Observation is built*
-##### Ash Lake is the first major discovery of the Great Hollow. A bed of ash at the bottom of the Archtree. A 2 week journey down the archtree to reach. From there, they were able to observe more, and further.
+##### Ash Lake is the first major discovery of the Great Hollow. A bed of ash at the bottom of the Archtree. A 2 week journey down The Archtree to reach. From there, they were able to observe more, and further.
 ---
 
 # 2431
