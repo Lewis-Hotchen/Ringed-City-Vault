@@ -32,6 +32,12 @@ Largest of their kin, Dragons resemble close to true Sentience but their knowled
 - **Size 8 (Huge)**: Massive Creatures, over 40' long, weighing over 30000 pounds.
 - **Swat**: Dragons ignore up to 4 points of Scale penalties when attacking with claws.
 - **Tail Lash**: str+d4. The creature may make a free attack against up to 2 creatures to its side or rear at no penalty
+- **AB Natural Magic**: Dragons can use pyromancy. Gain 4 powers with fire trappings.
+
+	- Bolt
+	- Blast
+	- Damage Field
+	- Mirror Selft
 
 ## Drake
 	Wild Card
