@@ -59,14 +59,18 @@
 ---
 
 # 2284 
-## *Humanity has it's first war; Astora; Thouroland fall*
-##### A war of culture, and regligious conflict. Those Kingdoms still dedicated to the wisdom of the Old Gods grew tired of the power growing in agnostic people. They went to war, to annex Lordran and Vinheim. The war did not lost long with the use of modern magical weapons. Unprecedented destruction. With Astora and Thouroland being lost time, their ideals go with it.
+## *Humanity has it's first modern war; Astora; Thouroland fall*
+##### A war of culture, and regligious conflict, coloquially known as "The Fight For Fire". Those Kingdoms still dedicated to the wisdom of the Old Gods grew tired of the power growing in agnostic people. They went to war, to annex Lordran and Vinheim. The war did not last long with the use of modern magical weapons. Unprecedented destruction. With Astora and Thouroland being lost to time, their ideals and beliefs go with it.
 ---
 
 # 1112
 ## *A new socitety is born.*
 ##### Science and technology grips the world. Medicine, phsyics and art. Philopshers, farmers, and engineers. Everything is expanding, and evolving.
 ---
+
+# ~0400 - 932
+## **Warring Ages**
+Considered the "Warring Ages", many kingdoms were at constant war in a struggle for power, land and resources. The largest war being between Catarina and Lordran, lasting over 6 brutal years of endless conflict that crippled both lands.
 
 # 0324
 ## *4 Major Kingdoms are re-declared: Lordran, Carim, Catarina, and Vinheim*
